@@ -3,10 +3,10 @@ package graph.core;
 import java.util.*;
 
 public class Graph {
-    private int n; // number of vertices
+    private int n;
     private List<List<Edge>> adjacencyList;
     private boolean directed;
-    private String weightModel; // "edge" or "node"
+    private String weightModel;
 
     // Constructors
     public Graph(int n, boolean directed) {
