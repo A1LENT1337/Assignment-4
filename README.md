@@ -25,8 +25,8 @@ assignment4/
 ## Build Instructions
 ```bash
 # Clone repository
-git clone <repo-url>
-cd assignment4
+git clone <https://github.com/A1LENT1337/Assignment-4>
+cd smart-city.campus_scheduling
 
 # Build with Maven
 mvn clean compile
